@@ -53,4 +53,8 @@ For Windows there is the "pyTranslateOCR.bat" file (two clicks and it starts), o
 ### Here are some screenshots:
 ![alt text](https://github.com/MoonDragon-MD/pyTranslateOCR/blob/main/img/ITA-BETA.jpg?raw=true)
 
+### Known problems:
+- At startup proste have problems if you don't create the ini file correctly, so close, set the ini by hand and then reopen.
+- Sometimes it automantically switches to translate with LibreTranslate
+
 
