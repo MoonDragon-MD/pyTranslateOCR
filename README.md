@@ -3,7 +3,7 @@ OCR program with translator and overlay - supports various translators and two O
 
 The TTS will read the translation to you in your language. Useful for video games like stories with subtitles or whatever you want.
 
-This program is the evolution of my pyLibOCR project
+This program is the evolution of my [pyLibOCR]( https://github.com/MoonDragon-MD/pyLibOCR) project
 
 **Right now it is in Beta there are still a few things to fix but overall it works.**
 
