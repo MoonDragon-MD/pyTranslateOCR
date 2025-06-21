@@ -46,11 +46,11 @@ Windows
 ### Installation:
 For Linux, I have created a simple installer (it also checks for necessary dependencies) so that you will find it in the menu (with icon).
 
-### Here are some screenshots:
-![alt text](https://github.com/MoonDragon-MD/pyTranslateOCR/blob/main/img/ITA-BETA.jpg?raw=true)
-
 ### Usage:
 For Linux if you used the installer you will find it in the menu otherwise use ``` python3 main.py ```
 For Windows there is the "pyTranslateOCR.bat" file (two clicks and it starts), otherwise use ``` python main.py ```
+
+### Here are some screenshots:
+![alt text](https://github.com/MoonDragon-MD/pyTranslateOCR/blob/main/img/ITA-BETA.jpg?raw=true)
 
 
