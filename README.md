@@ -15,7 +15,7 @@ It is compatible with the following translators:
 
 - Google
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
-- [translateLocally]( https://github.com/XapaJIaMnu/translateLocally)
+- [translateLocally]( https://github.com/XapaJIaMnu/translateLocally)  if you want the Italian language look at this: [ITA-models-translateLocally]( https://github.com/MoonDragon-MD/ITA-models-translateLocally-)
 - [nllb-serve]( https://github.com/thammegowda/nllb-serve) or [nllb-serve-slim]( https://github.com/MoonDragon-MD/nllb-serve-slim) (only CPU)
   
 It supports the following OCRs:
