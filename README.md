@@ -59,7 +59,7 @@ For Windows there is the "pyTranslateOCR.bat" file (two clicks and it starts), o
 ### Known problems:
 - At startup you might have problems if you don't create the ini file correctly, so close, set the ini by hand and then reopen.
 - Sometimes it automantically switches to translate with LibreTranslate (I set it as a fallback but it seems too restrictive)
-- When using the single text option, could merge words.
+- When using the single text option, it may incorrectly merge the words (i.e., it does not create the space).
 - Sometimes the overpressure is a little slow to appear especially if it is used together with TTS.
 - You may have to start selecting before the text, it may depend on the operating system or something else that I have to fix
 
