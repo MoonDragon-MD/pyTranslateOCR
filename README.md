@@ -36,7 +36,11 @@ The single text option allows you to send the full text (not line by line) to th
 
 ### Requirements:
 - Python (I used 3.8 on Linux / 3.10 on Windows)
-Linux/Debian
+Linux/DebianKnown problems:
+
+- At startup you might have problems if you don't create the ini file correctly, so close, set the ini by hand and then reopen.
+
+- Sometimes it automantically switches to translate with LibreTranslate
 -      pip install PyQt5 pyttsx3 pytesseract pillow requests pynput python-xlib googletrans==3.1.0a0 httpx httpcore
 - sudo apt-get install tesseract-ocr tesseract-ocr-eng tesseract-ocr-*LANG [espeak]
 Windows
@@ -54,7 +58,7 @@ For Windows there is the "pyTranslateOCR.bat" file (two clicks and it starts), o
 ![alt text](https://github.com/MoonDragon-MD/pyTranslateOCR/blob/main/img/ITA-BETA.jpg?raw=true)
 
 ### Known problems:
-- At startup proste have problems if you don't create the ini file correctly, so close, set the ini by hand and then reopen.
+- At startup you might have problems if you don't create the ini file correctly, so close, set the ini by hand and then reopen.
 - Sometimes it automantically switches to translate with LibreTranslate
 
 
